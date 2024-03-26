@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MyReadWriteFile</string>
+    <dimen name="tiny_margin">8dp</dimen>
+    <string name="file_new">File New</string>
+    <string name="file_open">File Open</string>
+    <string name="file_save">File Save</string>
+    <string name="title">Title</string>
+</resources>
